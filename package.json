@@ -12,5 +12,12 @@
     "@kentcdodds/workshop-app": "latest",
     "react": "latest",
     "react-dom": "latest"
+  },
+  "kcd-workshop": {
+    "title": "Exploring Workshop App 🤔",
+    "githubRoot": true
+  },
+  "scripts": {
+    "start": "kcdshop start"
   }
 }
